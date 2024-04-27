@@ -1,0 +1,13 @@
+#webhooks
+claimed: "https://discord.com/api/webhooks/1142566091848163438/rebRNx3Pet3pAKSHSxubz3_5EZnN1A-jK_YDfF6l2-v3Zy1MUVk8zObvLyrppgr-sX2Z"
+failed:  "https://discord.com/api/webhooks/1142566136546856970/JR-mQFVq0DbpwlSy1PsRih9q3KZP3sRlpY8j7lLrqlm3Hhi952N4G81uY5WxIlaG_OrC"
+
+#if you want to be anonymous in the public logs, set this to true
+anonymous: true
+
+scrapeInvites: false
+scrapePomoCodes: true
+
+threads: 50
+
+key: "WLQCTRY-YDRZWBR-EFQZFTK-FBXAMCF"

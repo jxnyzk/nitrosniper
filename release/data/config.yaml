@@ -1,0 +1,13 @@
+#webhooks
+claimed: ""
+failed:  ""
+
+#if you want to be anonymous in the public logs, set this to true
+anonymous: false
+
+scrapeInvites: true
+scrapePomoCodes: true
+
+threads: 20
+
+key: ""
